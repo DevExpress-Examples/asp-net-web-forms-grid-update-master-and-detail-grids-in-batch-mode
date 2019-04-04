@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))**
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [UpdateLogic.js](./CS/WebSite/UpdateLogic.js) (VB: [UpdateLogic.js](./VB/WebSite/UpdateLogic.js))
 <!-- default file list end -->
 # How to update master and detail grids simultaneously in Batch Edit mode
