@@ -6,6 +6,9 @@
 * [UpdateLogic.js](./CS/WebSite/UpdateLogic.js) (VB: [UpdateLogic.js](./VB/WebSite/UpdateLogic.js))
 <!-- default file list end -->
 # How to update master and detail grids simultaneously in Batch Edit mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t146190/)**
+<!-- run online end -->
 
 
 <p>It's necessary to perform the following steps to accomplish this task:</p>
