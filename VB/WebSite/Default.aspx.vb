@@ -4,7 +4,7 @@ Imports System.Collections.Specialized
 Imports System.ComponentModel
 Imports System.Linq
 Imports DevExpress.Web.Data
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Data
 Imports System.Web.UI
 Imports System.Web.UI.WebControls

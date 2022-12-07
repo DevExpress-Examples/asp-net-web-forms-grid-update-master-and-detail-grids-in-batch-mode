@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Linq;
 using DevExpress.Web.Data;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using System.Data;
 using System.Web.UI;
 using System.Web.UI.WebControls;
