@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to update master and detail grids simultaneously in batch edit mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t146190/)**
+**[[Run Online]](https://codecentral.devexpress.com/128543288/)**
 <!-- run online end -->
 
 This example demonstrates how to implement master-detail functionality and update all grid controls on a custom button click in batch edit mode.
