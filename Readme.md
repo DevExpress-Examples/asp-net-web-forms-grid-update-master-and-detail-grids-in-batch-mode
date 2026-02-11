@@ -115,7 +115,7 @@ Follow the steps below to update master and detail grids simultaneously:
 * [Grid View for ASP.NET Web Forms - Simple master-detail implementation](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-master-detail-implementation)
 * [Grid View for ASP.NET Web Forms - How to refresh a master grid on a detail grid callback](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-refresh-master-grid-on-detail-grid-callback)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-update-master-and-detail-grids-in-batch-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-update-master-and-detail-grids-in-batch-mode&~~~was_helpful=no)
 
